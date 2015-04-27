@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Hour21Application</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string-array name="choices_array">
+        <item>Simple Notificaton</item>
+        <item>Notification With Destination</item>
+        <item>Notification with Update</item>
+        <item>Notification with RemoteViews</item>
+
+
+    </string-array>
+    <string name="title_activity_simple_notificaton">SimpleNotificatonActivity</string>
+    <string name="title_activity_destination">DestinationActivity</string>
+    <string name="notification_text">This is a TextView defined in the notification_view.xml file. It is being used to demonstrate remote views.</string>
+
+</resources>
